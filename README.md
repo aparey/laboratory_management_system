@@ -36,7 +36,7 @@ LabTrack is a comprehensive web-based laboratory management system designed to h
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/labtrack.git
+   git clone https://github.com/aparey/laboratory_management_system.git
    cd labtrack
    ```
 
@@ -84,7 +84,7 @@ src/
 
 ### Data Analysis
 - **Interactive Charts**: Sample distribution, experiment success rates, timeline analysis
-- **Filtering & Search**: Advanced filtering by type, status, date ranges
+- **Filtering & Search**: Advanced filtering by type, status, and date ranges
 - **Export Capabilities**: Generate reports and export data
 - **Insights Dashboard**: Automated recommendations and trend analysis
 
@@ -214,14 +214,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Icons**: [Lucide React](https://lucide.dev/) for beautiful, consistent iconography
 - **Images**: [Pexels](https://pexels.com/) for high-quality laboratory photography
 - **Color Palette**: Carefully selected for accessibility and scientific aesthetics
-
-## 📞 Support
-
-For support, email support@labtrack.com or join our [Discord community](https://discord.gg/labtrack).
-
----
-
-<div align="center">
-  <p>Built with ❤️ for the scientific community</p>
-  <p>© 2024 LabTrack. All rights reserved.</p>
-</div>
